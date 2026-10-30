@@ -3,17 +3,17 @@
 ### 1. Revenue Analysis
 This analysis calculates total product revenue from the Olist e-commerce dataset.
 
-![Revenue Analysis](screenshots/revenue_analysis.png)
+![Revenue Analysis](revenue_analysis.png)
 
 ### 2. Customer Analysis
 This analysis compares repeat customers with one-time buyers and examines customer purchasing behaviour.
 
-![Customer Analysis](screenshots/customer_analysis.png)
+![Customer Analysis](customer_analysis.png)
 
 ### 3. Delivery Analysis
 This analysis examines delivery performance, average delivery time, and late deliveries.
 
-![Delivery Analysis](screenshots/delivery_analysis.png)
+![Delivery Analysis](delivery_analysis.png)
 
 ## Project Insights
 
