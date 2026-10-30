@@ -74,3 +74,25 @@ The analysis uses these core tables:
 The SQL scripts are organised into sales, payment, product, customer, and delivery analysis.
 
 **Note:** The dataset must be imported with the expected table and column names before running the analysis queries.
+## 10. SQL Script Guide
+
+| Script | Purpose |
+|---|---|
+| 01 | Database setup |
+| 02 | Data validation |
+| 03 | Sales analysis |
+| 04 | Monthly sales trends |
+| 05 | Monthly revenue growth |
+| 06 | Payment analysis |
+| 07 | Product performance |
+| 08 | Product categories |
+| 09 | Category analysis |
+| 10 | Category revenue per order |
+| 11 | Customer purchase frequency |
+| 12 | Top customers by revenue |
+| 13 | Repeat vs. one-time buyers |
+| 14 | Delivery performance |
+| 15 | Monthly delivery performance |
+| 16 | Late delivery by state |
+| 17 | Late delivery by category |
+| 18 | Delivery KPI summary |
