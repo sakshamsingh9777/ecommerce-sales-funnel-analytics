@@ -40,17 +40,6 @@ CREATE TABLE IF NOT EXISTS orders (
     order_estimated_delivery_date DATETIME
 );
 USE ecommerce_analytics;
-
-INSERT INTO orders (
-    order_id,
-    customer_id,
-    order_status,
-    order_purchase_timestamp,
-    order_approved_at,
-    order_delivered_carrier_date,
-    order_delivered_customer_date,
-    order_estimated_delivery_date
-)
 SELECT COUNT(*) AS total_orders
 FROM orders;
 USE ecommerce_analytics;
