@@ -55,3 +55,22 @@ The analysis uses these core tables:
 - Analyse repeat purchase rates over time.
 - Improve delivery performance analysis by geographic region.
 - Build an interactive dashboard using Power BI.
+## 9. How to Run the Project
+
+### Prerequisites
+- MySQL Server 8.0 or later
+- MySQL Workbench
+- Brazilian E-Commerce Public Dataset by Olist
+
+### Setup
+1. Download the dataset from the Kaggle source linked in the main README.
+2. Open MySQL Workbench and connect to your MySQL server.
+3. Create or select the database `ecommerce_analytics`.
+4. Import the required Olist CSV files into their corresponding tables.
+5. Run the database setup and data validation scripts.
+6. Execute the analysis scripts in the `sql/` folder.
+
+### Analysis Scripts
+The SQL scripts are organised into sales, payment, product, customer, and delivery analysis.
+
+**Note:** The dataset must be imported with the expected table and column names before running the analysis queries.
