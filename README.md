@@ -68,7 +68,32 @@ ecommerce-sales-funnel-analytics/
     └── project_documentation.md
 
 ## Key Findings
-Key business insights and analytical findings will be documented here as the project develops.
+## Project Insights
+
+### 1. Overall Sales Performance
+- Total orders analysed: **99,441**
+- Total product revenue: **R$13,591,643.70**
+- Average order value: **R$137.50**
+- Product revenue excludes freight charges.
+
+### 2. Customer Behaviour
+- Repeat customers generated an average revenue of **R$260.05 per customer**.
+- One-time buyers generated an average revenue of **R$137.96 per customer**.
+- The analysis identified **2,801 repeat customers** among 93,358 unique buyers.
+
+### 3. Product Category Performance
+- The `beleza_saude` category generated **R$1,233,131.72** in product revenue.
+- Product category analysis helps identify important revenue-generating segments.
+
+### 4. Delivery Performance
+- Average delivery time: **12.50 days**.
+- Delivery performance was analysed using actual and estimated delivery dates.
+
+### 5. Business Recommendations
+- Encourage repeat purchases through customer retention campaigns.
+- Focus marketing efforts on high-revenue product categories.
+- Monitor delivery delays to improve customer experience.
+- Use payment and sales trends to support business decisions.
 
 ## Author
 Saksham Singh
