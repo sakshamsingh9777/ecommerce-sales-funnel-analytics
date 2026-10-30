@@ -1,4 +1,4 @@
-# E-Commerce Sales & Customer Analytics
+# E-Commerce Sales & Customer Analytic
 
 ## Project Overview
 This project explores the Brazilian E-Commerce Public Dataset by Olist using MySQL. It focuses on analysing sales performance, customer behaviour, product categories, payments, and delivery performance.
