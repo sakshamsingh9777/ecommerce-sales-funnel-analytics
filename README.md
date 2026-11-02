@@ -94,6 +94,9 @@ ecommerce-sales-funnel-analytics/
 - Focus marketing efforts on high-revenue product categories.
 - Monitor delivery delays to improve customer experience.
 - Use payment and sales trends to support business decisions.
+## Power BI Dashboard Preview
+
+![E-Commerce Sales Dashboard](powerbi/screenshots/dashboard_overview.png)
 
 ## Author
 Saksham Singh
